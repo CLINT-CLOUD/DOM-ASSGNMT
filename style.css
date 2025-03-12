@@ -1,0 +1,26 @@
+.container {
+    margin-top: 100px;
+    color: rgb(24, 16, 11);
+}
+.color-box {
+    max-width: 250px;
+    height: 150px;
+    background-color: darkorange;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+button {
+    max-width: 100px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 80px;
+    border-radius: 30px;
+    background-color: rgb(221, 9, 48);
+    border: none;
+    color: white;  
+}
+button:hover {
+    background-color: rgb(112, 5, 24);
+    color: white;
+    
+}
